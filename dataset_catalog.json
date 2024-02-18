@@ -1,4 +1,10 @@
 {
+    "eurosat": {
+        "path": "/export/share/datasets/vision/image_datasets/eurosat",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
     "food101": {
         "path": "/export/share/datasets/vision/image_datasets/food101",
         "type": "imagefolder",
